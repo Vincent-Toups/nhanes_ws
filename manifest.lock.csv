@@ -1,0 +1,17 @@
+modality,kind,filename,source_url,bytes,sha256
+demographics,xpt,DEMO_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DEMO_H.xpt,3833200,f8f0cbb3085a323d4cde22349b164878fea1e64dbc404e65b5815c7816b547d7
+questionnaire,xpt,BPQ_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/BPQ_H.xpt,726720,aa6ddeab80c73b074ccfd04ad010da404ecb91c048476a194594ce9552d03d49
+questionnaire,xpt,PAQ_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/PAQ_H.xpt,7297920,fa35acbb489594e8e55350f7402a12b5a607805c28ec16246929d33237bd3269
+questionnaire,xpt,SMQ_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/SMQ_H.xpt,2170000,86d74bb8842ce6d60350944417cbd3e9ee39dd5a9fa1bda33426f276b673861f
+examination,xpt,BMX_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/BMX_H.xpt,2045520,fd5e9fc6e6aab0a4aee6e699f51497bbc9b62101f7f43aee924c473e38fd9442
+examination,xpt,BPX_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/BPX_H.xpt,1809600,b6641efc30ac9b9de328dfbf4110d0d120439aadca2c2bc89f2e77310d1a0c8e
+examination,xpt,DXX_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DXX_H.xpt,4502320,792ebf3791156367832a01be0c96286ef8da1f540a1d674077f5af12951e99e5
+laboratory,xpt,GHB_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/GHB_H.xpt,112720,0695894ad55ac96f315a8415401977b0856c402d16762115b534bcd5dfeae89e
+laboratory,xpt,GLU_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/GLU_H.xpt,161440,8aa3a41a8135eea6ad761bf7711ec18b29698d76aca3ae8fe487ef89ec9631da
+laboratory,xpt,HDL_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/HDL_H.xpt,200240,d5aef1b9e9869d8124f7b2f81da38328827d06ea80d2f630f815a0ecd0c58a66
+dietary,xpt,DR1TOT_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DR1TOT_H.xpt,13212960,4fc45d48cf8a4bdcca615efa895e7e05414ca4d549bd75c8115e06abcc86cdc3
+dietary,xpt,DR2TOT_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DR2TOT_H.xpt,6685520,12fa3550afbd57ec62d1543c668f1736387f3421fc6668369b5fa4c15a369f91
+sensor,xpt,PAXHD_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/PAXHD_H.xpt,438800,4a2d7b6a2f0b038ceaaf718bbb65ffeea62a31d1543b2b657458bc6b5127f7f9
+sensor,xpt,PAXDAY_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/PAXDAY_H.xpt,7318800,a2938ac350d077091207de706c848461e282984747c83c1f07070f9a04a849f6
+metadata,html,DEMO_H.htm,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DEMO_H.htm,170377,686d31f7e0857fd0c16c9a9a4e9878ad1d6e3ec4cba9a904fcce4048c9506b68
+metadata,html,PAXDAY_H.htm,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/PAXDAY_H.htm,64465,f1e0401ad79f60c579ec8ad3e64379fe1b4be4a3253b05d0d29f71241a776306

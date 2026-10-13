@@ -1,0 +1,31 @@
+# Downloaded datasets and generated Parquet outputs
+/data/
+
+# Generated Athena DDL contains deployment-specific S3 locations
+/athena/generated_tables.sql
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local credentials and tool configuration
+.env
+.env.*
+!.env.example
+/.aws/
+/.codex/
+/.agents/
+
+# Editor and operating system files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
